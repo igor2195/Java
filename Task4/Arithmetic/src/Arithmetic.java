@@ -15,11 +15,23 @@ public class Arithmetic{
         return a * b;
     }
 
-    public int getMax(int a, int b) {
-        return a > b ? a : b;
+    public int getMax(Integer... number) {
+        int max = 0;
+        for (int i = 0; i < number.length; i++) {
+           if(max < number[i]){
+               max = number[i];
+           }
+        }
+        return max;
     }
 
-    public int getMin(int a, int b) {
-        return a > b ? b : a;
+    public int getMin(Integer... number) {
+        int min = number[0];
+        for (int i = 0; i < number.length; i++) {
+            if(min > number[i]){
+                min = number[i];
+            }
+        }
+        return min;
     }
 }
