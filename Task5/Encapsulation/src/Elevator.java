@@ -1,5 +1,5 @@
 public class Elevator {
-    private int currentFloor;
+    private final int currentFloor;
     private final int minFloor;
     private final int maxFloor;
 
