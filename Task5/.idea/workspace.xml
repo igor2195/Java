@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2251aa9c-a96d-43fa-805e-b26ddf87b33c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Task4/.idea/Task4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/03_ObjectsAndMethods/03_ObjectsAndMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/ObjectsAndClasses_StaticFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/KeyBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Ram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/TypeMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/TypeStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task4/03_ObjectsAndMethods/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task4/03_ObjectsAndMethods/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ECO3gg97r4zwSV6r17xWxn96wh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Java/JavaGit"
+    "last_opened_file_path": "D:/Java/JavaGit/Task5"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
