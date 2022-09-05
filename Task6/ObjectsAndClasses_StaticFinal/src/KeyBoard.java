@@ -1,15 +1,15 @@
 public class KeyBoard {
-    private final String type;
+    private final TypeKeyBoard type;
     private final boolean isBacklight;
     private final double weight;
 
-    public KeyBoard(String type, boolean isBacklight, double weight) {
+    public KeyBoard(TypeKeyBoard type, boolean isBacklight, double weight) {
         this.type = type;
         this.isBacklight = isBacklight;
         this.weight = weight;
     }
 
-    public String getType() {
+    public TypeKeyBoard getType() {
         return type;
     }
 

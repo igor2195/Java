@@ -1,15 +1,15 @@
 public class Ram {
-    private final String type;
+    private final TypeRam type;
     private final int volume;
     private final double weight;
 
-    public Ram(String type, int volume, double weight) {
+    public Ram(TypeRam type, int volume, double weight) {
         this.type = type;
         this.volume = volume;
         this.weight = weight;
     }
 
-    public String getType() {
+    public TypeRam getType() {
         return type;
     }
 

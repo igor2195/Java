@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2251aa9c-a96d-43fa-805e-b26ddf87b33c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Task6/03_ObjectsAndMethods/03_ObjectsAndMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/ObjectsAndClasses_StaticFinal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/KeyBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Ram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/TypeMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task6/ObjectsAndClasses_StaticFinal/src/TypeStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task4/03_ObjectsAndMethods/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task4/03_ObjectsAndMethods/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
