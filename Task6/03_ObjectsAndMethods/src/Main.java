@@ -10,5 +10,9 @@ public class Main {
         Basket basket1 = new Basket();
         basket1.add("Water", 20, 1, 10.3);
         basket1.print("tomat");
+
+        basket.clear();
+
+        basket.print("Milk");
     }
 }
