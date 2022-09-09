@@ -20,7 +20,7 @@ public class Main {
         }*/
 
 
-        for( int i = 0; i < 65536; i++){
+        for( int i = 1025; i <= 1105; i++){
             char c = (char) i;
             if(c == 'Ё' || c == 'ё'){
                 System.out.println(c);
@@ -28,7 +28,5 @@ public class Main {
                 System.out.println(c);
             }
         }
-
-
     }
 }
