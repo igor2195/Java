@@ -20,7 +20,7 @@ public class Main {
         }*/
 
 
-        for( int i = 1025; i <= 1105; i++){
+        for(int i = 1025; i <= 1105; i++){
             char c = (char) i;
             if(c == 'Ё' || c == 'ё'){
                 System.out.println(c);
