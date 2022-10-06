@@ -10,7 +10,7 @@ public class Main {
 
         /*
         или через регулярное выражене, разбив по пробелу
-        String[] words = inputString.split("\\s");
+        String[] words = inputString.split("\\s+");
         for(int i = 0; i < words.length; i++) {
             System.out.println(words[i]);
         }*/
