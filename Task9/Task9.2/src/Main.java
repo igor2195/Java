@@ -42,26 +42,4 @@ public class Main {
         }
         return outString.toString();
     }
-
-
-
-
-        /*while(index <= text.lastIndexOf("")) {
-            space = text.indexOf(" ", index + 1);
-            resText.append("(").append(count).append(") ");
-            if(space == -1) {
-                resText.append(text.substring(index));
-                break;
-            } else {
-                resText.append(text, index, space + 1);
-            }
-            index = space + 1;
-            count++;
-        }
-
-
-        return resText.toString();
-        */
-
-
 }
