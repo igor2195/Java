@@ -7,6 +7,13 @@ public class Main {
         System.out.println(SplitText(inputString));
 
 
+
+        /*
+        или через регулярное выражене, разбив по пробелу
+        String[] words = inputString.split("\\s");
+        for(int i = 0; i < words.length; i++) {
+            System.out.println(words[i]);
+        }*/
     }
 
     /**
