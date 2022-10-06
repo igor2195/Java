@@ -1,21 +1,15 @@
 import java.util.Scanner;
 
 public class Main {
-    /**
-     * @param args
-     * из "Это просто текст, для примера работы программы" преобразовать в
-     * "(1) Это (2) просто (3) текст, (4) для (5) примера (6) работы (7) программы"
-     */
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        String text = scanner.nextLine();
-        //String text = "Это просто текст, для примера работы программы";
+        String text = new Scanner(System.in).nextLine();
+
         System.out.println(sequentialWordsNumbers(text));
-        //System.out.println(text.lastIndexOf(""));
+
 
     }
 
-    public static StringBuilder sequentialWordsNumbers(String text) {
+    public static String sequentialWordsNumbers(String text) {
 
         StringBuilder resText = new StringBuilder();
         int index = 0;
@@ -36,7 +30,7 @@ public class Main {
         }
 
 
-        return resText;
+        return resText.toString();
 
     }
 }
