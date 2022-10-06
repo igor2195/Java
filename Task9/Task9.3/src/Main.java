@@ -7,13 +7,13 @@ public class Main {
             String phoneNumber = new Scanner(System.in).nextLine();
             System.out.println(formatPhoneNumber(phoneNumber));
         }
-
-
-
-
-
     }
 
+    /**
+     * @param phone Принимает номер
+     * @return Возвращает отформатированный номер под формат 7ХХХХХХХХХХ
+     * Если номер не подходит под формат возвращает тектс "Неверный формат номера"
+     */
     public static String formatPhoneNumber(String phone) {
         String clearRegex = "[^0-9]";
         String firstNumber = "[8][0-9]{10}";
