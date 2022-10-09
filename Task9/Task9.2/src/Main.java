@@ -4,9 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         String inputString = new Scanner(System.in).nextLine();
-        System.out.println(SplitText(inputString));
-
-
+        System.out.println(splitText(inputString));
 
         /*
         или через регулярное выражене, разбив по пробелу
@@ -20,10 +18,12 @@ public class Main {
      * @param inputString исходная строка
      * @return возвращает слова из исходной строки разбитые через \n по пробелу
      */
-    public static String SplitText(String inputString) {
+    public static String splitText(String inputString) {
+
         int currentIndex = 0;
         int lastStringIndex = inputString.lastIndexOf("");
         int spaceIndex;
+
         String newLine = System.lineSeparator();
         StringBuilder outString = new StringBuilder();
 

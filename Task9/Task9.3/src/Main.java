@@ -10,16 +10,18 @@ public class Main {
     }
 
     /**
-     * @param phone Принимает номер
+     * @param phone Принимает номер телефона в виде строки
      * @return Возвращает отформатированный номер под формат 7ХХХХХХХХХХ
      * Если номер не подходит под формат возвращает тектс "Неверный формат номера"
      */
     public static String formatPhoneNumber(String phone) {
+
         String clearRegex = "[^0-9]";
         String firstNumber = "[8][0-9]{10}";
         String regex = "[7][0-9]{10}";
 
         phone = phone.replaceAll(clearRegex, "");
+
         if (phone.matches(firstNumber)) {
             phone = phone.replace("8", "7");
         } if(phone.matches(regex)){
