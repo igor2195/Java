@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class TwoDimensionalArray {
@@ -15,13 +14,14 @@ public class TwoDimensionalArray {
 
         String[][] arr = new String[size][size];
 
-        for (String[] elem : arr) {
-            Arrays.fill(elem, "");
-        }
-
         for(int i = 0; i < arr.length; i++) {
             arr[i][i] = "X";
             arr[i][arr.length - 1 - i] = "X";
+            for(int j = 0; j < arr[i].length; j++) {
+                if(arr[i][j] != "X"){
+                    arr[i][j] = "";
+                }
+            }
         }
         return arr;
     }
