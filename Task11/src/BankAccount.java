@@ -17,7 +17,7 @@ public class BankAccount {
             System.out.println("Введена отрицатлеьная сумма");
         } else {
             balance += amount;
-            lastIncome = LocalDate.of(2022, 10, 5);
+            lastIncome = LocalDate.of(2022, 11, 5);
         }
     }
 
