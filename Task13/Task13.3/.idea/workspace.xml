@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8daf886d-93de-4ec8-9421-05b2a7363492" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/airport-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestFindPlanesLeavingInTheNextTwoHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestFindPlanesLeavingInTheNextTwoHours.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task13.2/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task13.2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/data/sortedStaff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task13.2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/src/main/java/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/src/test/java/TestSortBySalaryAndAlphabet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/target/classes/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.2/target/test-classes/TestSortBySalaryAndAlphabet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/checkstyle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/data/staff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/src/main/java/app/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/src/main/java/app/EmployeeUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/src/main/java/app/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/src/test/java/TestFindEmployeeByHighestSalary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/target/classes/app/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/target/classes/app/EmployeeUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/target/classes/app/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task13.7/target/test-classes/TestFindEmployeeByHighestSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +27,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Java/JavaGit"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/JavaGit&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.TestFindPlanesLeavingInTheNextTwoHours">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />

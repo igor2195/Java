@@ -2,8 +2,6 @@ import com.skillbox.airport.Airport;
 import com.skillbox.airport.Flight;
 import com.skillbox.airport.Terminal;
 
-
-import java.time.Instant;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.util.*;
@@ -14,9 +12,6 @@ public class Main {
     public static void main(String[] args) {
         Airport airport = Airport.getInstance();
         findPlanesLeavingInTheNextTwoHours(airport);
-        System.out.println(findPlanesLeavingInTheNextTwoHours(airport));
-
-
     }
 
     public static List<Flight> findPlanesLeavingInTheNextTwoHours(Airport airport) {
@@ -37,7 +32,6 @@ public class Main {
                 )
                 .collect(Collectors.toList());
     }
-
     public static LocalDateTime convertToLocalDate(Date date) {
         return date.toInstant()
                 .atZone(ZoneId.systemDefault())
