@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8daf886d-93de-4ec8-9421-05b2a7363492" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/airport-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestFindPlanesLeavingInTheNextTwoHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TestFindPlanesLeavingInTheNextTwoHours.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task13.2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task13.2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/data/sortedStaff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task13.2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/src/main/java/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/src/test/java/TestSortBySalaryAndAlphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/target/classes/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.2/target/test-classes/TestSortBySalaryAndAlphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/data/staff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/src/main/java/app/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/src/main/java/app/EmployeeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/src/main/java/app/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/src/test/java/TestFindEmployeeByHighestSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/target/classes/app/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/target/classes/app/EmployeeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/target/classes/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task13.7/target/test-classes/TestFindEmployeeByHighestSalary.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/lib/airport-1.0.1.jar!/com/skillbox/airport/Flight.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/lib/airport-1.0.1.jar!/com/skillbox/airport/Terminal.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IY74qIfmTgJmL48jtZH19jHlkt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Java/JavaGit"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestFindPlanesLeavingInTheNextTwoHours">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task13.3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFindPlanesLeavingInTheNextTwoHours" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task13.3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFindPlanesLeavingInTheNextTwoHours" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestFindPlanesLeavingInTheNextTwoHours" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8daf886d-93de-4ec8-9421-05b2a7363492" name="Changes" comment="" />
+      <created>1670346474941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670346474941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
